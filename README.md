@@ -1,2 +1,3 @@
 # 💫 About Me:
-Since April 2022, I have been studying at School 21 by Sberbank. <br>I have experience in various operating systems: Windows XP, 7, 10, 11, macOS, Linux (Ubuntu). <br>Also have experience in Linux administration, basic knowledge of bash script. <br>At the moment I'm starting to study Monitoring, Docker, CI\CD.<br>Know C programming language, and I also study Python and Go.<br><br>I plan further development in the field of DevOps.<br>Currently considering employment as both a Junior Specialist and an Intern to start gaining the necessary experience.<br><br>Can work with various graphic editors such as Adobe Photoshop, Adobe After Effects, Lightroom, Cinema 4D and Sony VEGAS Pro.<br>Have experience building and configuring PCs.
+Sber School 21 student. 
+DevOps at a small startup. 
